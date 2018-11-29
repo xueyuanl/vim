@@ -1,1 +1,0 @@
-/home/mystic/.vim
