@@ -29,8 +29,8 @@ set tabstop=4
 "set auto indent
 set autoindent
 
-set background=dark 
-colorscheme solarized
+" set background=dark 
+" colorscheme solarized
 
 " provide hjkl movements in Insert
 "Note that since the <C-j> is conflict with the c.vim plugin, line 2781 in ~/.vim/plugin/c.vim is commented.
